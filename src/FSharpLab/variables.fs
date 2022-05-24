@@ -1,3 +1,5 @@
+module FSharpLab.Variables
+
 // The "let" keyword defines an (immutable) value
 let myInt = 23
 let myString = "Micheal Jordan"
