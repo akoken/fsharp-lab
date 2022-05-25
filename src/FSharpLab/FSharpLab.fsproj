@@ -5,6 +5,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="variables.fs" />
+    <Compile Include="functions.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>
